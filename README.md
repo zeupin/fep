@@ -1,2 +1,13 @@
-# fep
-Front-End Packages
+# Front-End Packages 前端资源包
+
+本项目用于存放常用的前端资源包。
+
+目录组织为：
+
+```
+├── 包名---厂商名                // 包名 + 3个横线 + 厂商名
+　　└── 版本号
+　　　　└── 目录
+　　　　　　└── file1.xxx
+　　　　　　└── file2.xxx
+```
